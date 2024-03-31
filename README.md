@@ -83,7 +83,7 @@ To effectively work on this project, it's essential to have a good understanding
 
 ## Project Structure
 
-<img align="left" style="margin-right: 20px;width: 325px" src="screenshots/folder_structure.png"></img>
+<img align="left" style="margin-right: 20px;width: 325px" src="/lib/screenshots/folder_structure.png"></img>
 
 ### Entrypoint
 
